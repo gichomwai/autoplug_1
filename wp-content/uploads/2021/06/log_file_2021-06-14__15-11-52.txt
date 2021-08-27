@@ -1,0 +1,200 @@
+
+---Downloaded files---
+The import files for: Chromium Demo (Marketplace) were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost:8888/autoplug
+Data file = /Applications/MAMP/htdocs/autoplug/wp-content/themes/chromium/dummy-data/demo2/chromium-content.xml
+Widget file = /Applications/MAMP/htdocs/autoplug/wp-content/themes/chromium/dummy-data/demo2/chromium-widgets.wie
+Customizer file = /Applications/MAMP/htdocs/autoplug/wp-content/themes/chromium/dummy-data/demo2/chromium-customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bumper" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "сгыещь-wheel" (Media)
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+TZ Categories - Categories - Imported
+TZ Recent Posts - Recent Posts - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+TZ Most Viewed Posts - Most Viewed Posts - Imported
+Calendar - Calendar - Imported
+TZ Social Icons - Socials - Imported
+
+Header (Logo group) sidebar : 
+
+tm_woocommerce_wishlist - No Title - Site does not support widget
+TZ Cart for Woocommerce - Shopping Cart - Imported
+
+Shop Page Sidebar : 
+
+TZ Categories - Categories - Imported
+Active Product Filters - Active Filters - Imported
+Filter Products by Price - Price - Imported
+Filter Products by Attribute - Department - Imported
+Filter Products by Attribute - Car Type - Imported
+Filter Products by Attribute - Brand - Imported
+
+Single Product Page Sidebar : 
+
+Products - Recent Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer Sidebar (1 Col) : 
+
+TZ Contacts - No Title - Imported
+TZ Social Icons - Join Us: - Imported
+
+Footer Sidebar (2 Col) : 
+
+Meta - INFORMATION - Imported
+
+Footer Sidebar (3 Col) : 
+
+Pages - WHY BUY FROM US - Imported
+
+Footer Sidebar (4 Col) : 
+
+mailchimpsf_widget - No Title - Site does not support widget
+TZ Payment Icons - We Accept: - Imported
+
+Header Top Panel Left Sidebar : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Header Top Panel Right Sidebar : 
+
+woocs_selector - Currency:  - Site does not support widget
+TZ Login/Register - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+TZ Output Shortcode - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
